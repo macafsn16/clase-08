@@ -21,7 +21,9 @@ export default function Home() {
         
             
         <Button></Button>
+        <br></br>
         <Input></Input>
+        <br></br>
         <Video></Video>
       
               
